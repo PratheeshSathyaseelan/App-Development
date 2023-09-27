@@ -1,0 +1,89 @@
+
+.sidebar {
+  width: 150x;
+  background-color: #333;
+  color: white;
+  padding: 20px;
+  position: fixed;
+  top: 40px; /* Adjust to leave space for the navbar */
+  left: 0;
+  bottom: 0;
+  z-index: 1; /* Ensure it's above other content */
+}
+
+.sidebar ul {
+  list-style: none;
+  padding: 0;
+}
+
+.sidebar li {
+  margin-bottom: 10px;
+}
+
+.sidebar a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  font-size: 16px;
+}
+.letters{
+  position: relative;
+  top: 10%;
+
+}
+.db{
+  position: relative;
+  width: 25%;
+  height: auto;
+  left: 35%;
+}
+.dbl{
+  position: relative;
+  text-align: center;
+  font-size: 70%;
+}
+.mg{
+  position: relative;
+  width: 25%;
+  height: auto;
+  left: 35%;
+}
+.mgl{
+  position: relative;
+  text-align: center;
+   font-size: 70%;
+
+}
+.nt{
+  position: relative;
+  width: 25%;
+  height: auto;
+  left: 35%;
+}
+.ntl{
+  position: relative;
+  text-align: center;
+  font-size: 70%;
+}
+.pd{
+  position: relative;
+  width: 25%;
+  height: auto;
+  left: 35%;
+}
+.pdl{
+  position: relative;
+  text-align: center;
+  font-size: 70%;
+}
+.logout{
+  position: relative;
+  width: 25%;
+  height: auto;
+  left: 38%;
+}
+.logoutl{
+  position: relative;
+  text-align: center;
+  font-size: 70%;
+}

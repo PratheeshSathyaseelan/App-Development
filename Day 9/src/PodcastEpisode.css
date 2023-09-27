@@ -1,0 +1,42 @@
+.episode {
+    
+    background-color: #1d1d1d;
+    border: 1px solid #333232;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    transition: transform 0.2s ease-in-out;
+  }
+  
+  .episode img {
+    max-width: 60%;
+    height: auto;
+    border-radius: 5px;
+  }
+  
+  .episode h3 {
+    margin-top: 10px;
+    font-size: 16px;
+    color: #b6b2b2;
+  }
+  
+  .episode p {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #6b6a6a;
+  }
+  
+  audio {
+    width: 90%;
+    height: 10%;
+    margin-top: -2px;
+    background-color: #969494;
+    border: 1px solid #8d8b8b;
+    border-radius: 5px;
+  }
+  
+  audio::-webkit-media-controls-panel {
+    background-color: #949393;
+    border-radius: 5px;
+  }

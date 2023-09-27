@@ -1,0 +1,28 @@
+.header {
+    position: fixed;
+    top: 16%;
+    left: 0;
+    right: 0;
+    background-color: #1b1b1b;
+    z-index: 1000; 
+    padding: -20px 0px;
+  }
+  
+  .navigation-menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2px;
+    
+  }
+  
+  .navigation-menu a {
+    text-decoration: none;
+    color: rgb(129, 128, 128);
+    padding: 10px;
+    transition: background-color 0.3s;
+  }
+  
+  .navigation-menu a:hover {
+    background-color: #c9c7c7;
+  }

@@ -1,0 +1,44 @@
+
+  
+  /* Page header styles */
+  .z2 {
+    font-size: 120%;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  .z5{
+    color: rgb(253, 253, 253);
+  }
+  
+  /* Section styles */
+  .z4 {
+    color: #f8f7f7;
+
+    padding: 10px;
+  }
+  
+  /* List styles */
+  .z6 {
+    margin: 0;
+    padding: 0;
+    list-style-type: disc;
+    color: white;
+  }
+  
+  /* Paragraph styles */
+  .z3 {
+    color: #f1f1f1;
+    margin: 10px;
+  }
+  .z1
+  {
+    margin-top: 10%;
+  }
+  
+  /* Customize these styles as per your design preferences */
+  .algn
+  {
+    margin-left: 20%;
+    max-width: 70%;
+  }
